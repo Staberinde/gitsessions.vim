@@ -1,5 +1,9 @@
 # gitsessions.vim
 
+## ❗ Requirements
+
+- [vim-session](https://github.com/xolox/vim-session)
+
 ## Description
 
 gitsessions.vim improves on vim's [`:mksession`][mks] command (saving open
